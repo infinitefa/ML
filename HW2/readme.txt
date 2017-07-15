@@ -1,0 +1,1 @@
+run createH5.m can create hdf5 files with CroppedYale directory in the same directory ,and run plot_learning_curve.m will plot the learning accuracy curve.
